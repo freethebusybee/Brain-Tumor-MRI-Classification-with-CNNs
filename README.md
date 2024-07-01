@@ -13,7 +13,6 @@ These graphs and the accuracy score provide insight into how well the model is p
 
 The 'Pituitary Tumor' photo is an example of images uploaded into the script for training and testing purposes. 
 
+The 'Statistics' Chart:
 
-
-
-
+Each of these density plots helps to visualize how the statistical features (mean, standard deviation, entropy, and color channel means) are distributed for melanoma and non-melanoma images. By comparing these distributions, we can identify distinguishing characteristics between the two classes, which can be useful for training a machine learning model to classify the images. Differences in the peaks, spreads, and shapes of these distributions provide insights into the distinct properties of melanoma versus non-melanoma images.
